@@ -16,4 +16,4 @@
   
   (4)  the MAD criterion.
 
-- In the block  `Figure S6`, the script is used to plot **Figure S6**, which calculates BZ power, $P_{\rm BZ}$, as a function of the BH spin parameter $a$ for a BH with 8.5 solar mass and the field strength at the horizon $B_{\rm h}=7\times 10^7$~Gauss is adopted.
+- In the block  `Figure S6`, the script is used to plot **Figure S6**, which calculates BZ power, $P_{\rm BZ}$, as a function of the BH spin parameter $a$ for a BH with 8.5 solar mass and the field strength at the horizon $B_{\rm h}=7\times 10^7$ Gauss is adopted.
