@@ -1,6 +1,7 @@
 ### Determine the the lags between flares of different wavelengths:
 - `piccf_mc.c`: the script to determine the time-delay
-- `iccf.py`: the script to plot the ICCF in **Fig. S1**.
+- `iccf_xr.py`: is used for generate the correlation figure between x-ray and radio data.
+- `iccf_xv.py`: is used for generate the correlation figure between x-ray and V-band data.
 - `corona_58380_1sigma.txt`: Compton luminosity after MJD 58380 in **Fig. 2A**.
 - `radio_58380_296.txt`: Radio luminosity after MJD 58380 in **Fig. 2B**.
 - `V_58380_0620.txt`: V-band luminosity after MJD 58380 in **Fig. 2C** (orange points).
