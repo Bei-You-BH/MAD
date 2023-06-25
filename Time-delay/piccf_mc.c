@@ -40,8 +40,8 @@ void plspec(int num, double *wave, double *flux);
 int main()
 {
     /* input lc names */
-    char continuum_name[] = "../05_data/corona_58380_cor.txt";
-    char line_name[] = "../05_data/disk_58380_cor.txt";
+    char continuum_name[] = "../data_use/corona_58380_1sigma.txt";
+    char line_name[] = "../data_use/radio_58380_296.txt";
 
     int nc = 0, nl = 0;
     double jdc[LC_NMAX], fc[LC_NMAX], efc[LC_NMAX];
@@ -72,7 +72,7 @@ int main()
     /* define array to store output ccf and lag distribution */
 
     int num_mc = 10000, nt = 451;
-    double tbeg = -15.0, tend = 15.0;
+    double tbeg = -5.0, tend = 20.0;
     int nbin = 101; // bin number of lag distribution
     double binx[nbin], biny[nbin];
     double binxp[nbin], binyp[nbin];
