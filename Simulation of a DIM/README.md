@@ -31,6 +31,5 @@ The only difference between the wind and nowind code is the value of the paramet
 The time t=15222(days) in the column "t" corresponds to MJD 58380 in this work.
 
 mv - 14.85 gives the absolute magnitude Mv and the simulated luminosity by the code running, i.e. 
-$$
-L_V=3.85\times10^{33}\times10^{-0.4(-4.81+m_V-14.85)} \rm{erg \ s^{-1}}.
-$$
+
+$L_V=3.85\times10^{33}\times10^{-0.4(-4.81+m_V-14.85)} \rm{erg \ s^{-1}}$.
