@@ -23,4 +23,4 @@
 ### How-to-plot (Figure S1):
  `python iccf.py` Note that, after the "data1" and "data2" are specified with the respective filenames for two light currves (see above), the script will plot the resulting ICCF analysis.
 
-  `piccf_mc.py `: the script invoked by  `iccf.py `, to use this script, you should first change the cdll = ctypes.CDLL parameter to the path which stored the  `libpiccf_mc.so ` file.
+  `piccf_mc.py`: the script invoked by  `iccf.py`, to use this script, you should first change the cdll = ctypes.CDLL parameter to the path which stored the  `libpiccf_mc.so` file.
