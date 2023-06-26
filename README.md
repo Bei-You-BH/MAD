@@ -10,7 +10,7 @@ All the necessary data and scripts to reproduce You B., et al., (2023)
 
 ## Description
 
-- `Multi-wavelength light curves` folder contains the data points which are plotted in **Fig. 1、2、4, and Fig. S7、S8**.
+- `Multi-wavelengths observation data` folder contains the data points which are plotted in **Fig. 1、2、4, and Fig. S7、S8**.
   
 
 - `Time-delay` folder contains
